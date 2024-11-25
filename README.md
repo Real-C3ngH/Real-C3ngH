@@ -5,7 +5,7 @@
 <br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zch050217&layout=compact&theme=tokyonight)
 </br></br>
-😄 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+😄 You are my ![Visitor Count](https://profile-counter.glitch.me/zch050217/count.svg) visitor, Thank You!
 <br></br>
 💬 How to reach me: 673007328@qq.com
 <br></br>
