@@ -7,6 +7,6 @@
 </br></br>
 😄 You are my ![Visitor Count](https://profile-counter.glitch.me/zch050217/count.svg) visitor, Thank You!
 <br></br>
-💬 How to reach me: 673007328@qq.com
+📫 How to reach me: 673007328@qq.com
 <br></br>
-📫 Read more about my Blog: https://c3ngh.top
+💬 Read more about my Blog: https://c3ngh.top
