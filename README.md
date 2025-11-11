@@ -16,9 +16,7 @@ Hi, I'm C3ngH from China, a CTFer with a focus on CTF-Misc and Web Security, and
 
 # 📊 My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Real-C3ngH&show_icons=true&theme=onedark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Real-C3ngH)
+![](https://github-readme-stats.vercel.app/api?username=Real-C3ngH&show_icons=true&theme=onedark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Real-C3ngH)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Real-C3ngH)
 
