@@ -1,10 +1,17 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30" />Hey there, nice to see you.
 
-Hi, I'm C3ngH from China, a CTFer with a focus on CTF-Misc and Web Security, and a Software Engineering student at Zhejiang Normal University.
+Hi, I'm C3ngH from China, a Software Engineering student at Zhejiang Normal University. And a CTFer with a focus on CTF-Misc, DFIR and Web Security, plays for [A1natas (ZJNU CTF Group)](https://www.a1natas.com/about) and [W&M (CTF Union Team)](https://wm-team.cn/).
+
+🎯 Goals: 
+
+- Be a useful person
+- See the world
+- Own a barbecue restaurant
+- happiness every day
 
 🌐 Learn More at: https://c3ngh.top
 
-📫 Reach me at: C3ngH@qq.com
+📫 Reach me at: c3ngh@qq.com
 
 ## ✨ Skills & Tech Stack
 
